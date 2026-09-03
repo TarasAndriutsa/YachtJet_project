@@ -1,0 +1,10 @@
+img .yacht {
+  border: 1px solid #90b3c7;
+  width: 1340px;
+  height: 470px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
